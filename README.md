@@ -5,7 +5,7 @@ With this project you can test your REST-APIs in a server built with Nodejs usin
 ## INSTALLATION and USAGE
 Firstly you should install this project to local. 
 ```bash
-git clone 
+git clone https://github.com/hilalklc/NodeJS-Express-REST-API 
 ```  
 Install related npm packages with command "npm install", and run the server with commend "npm start" and then the swagger UI will be running on http://localhost:3000
 
